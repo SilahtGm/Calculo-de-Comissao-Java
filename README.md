@@ -28,11 +28,4 @@ Este projeto foi criado para praticar lógica de programação com **Java**, uti
 
 O projeto está finalizado para fins didáticos, mas pode receber melhorias, como tratamento de erros ou interface gráfica, em versões futuras.
 
----
-
-## 🚀 Como Executar
-
-1️⃣ Clone este repositório:  
-```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
 
